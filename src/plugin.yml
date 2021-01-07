@@ -1,0 +1,13 @@
+main: me.Prem.ElytraBoots.Main
+name: ElytraBoots
+version: 1.0
+author: Prem
+api-version: 1.16
+
+commands:
+   dtc start
+   dtc stop
+   dtc setloot
+   
+   
+   
